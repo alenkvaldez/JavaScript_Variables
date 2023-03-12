@@ -4,13 +4,13 @@ console.log(
 );
 
 // Exercise 1
-let firstName = firstName
-let lastName = lastName
-var age = age
+const firstName = "aleman";
+let lastName = "valdeezy";
+var age = 31;
 
 // Exercise 2
-firstName = "aleman";
-lastName = "valdeezy";
+// firstName = "aleman";
+lastName = " ";
 age = 25;
 
 // Exercise 3
